@@ -36,7 +36,6 @@ margin:40px;
 
 .flex{
 display:flex;
-justify-content:space-between;
 margin-top:20px;
 }
 
@@ -93,7 +92,7 @@ border-bottom:none;
 
 .button{
 background-color:red;
-width:27%;
+width:30%;
 text-align:center;
 margin:0 auto;
 }
