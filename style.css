@@ -37,6 +37,7 @@ margin:40px;
 .flex{
 display:flex;
 margin-top:20px;
+padding-right:50px;
 }
 
 .flex2{
@@ -56,12 +57,15 @@ margin:10px;
 width:100%;
 }
 
-.title h1{ font-size:40px; }
+.title h1{ 
+width:80px;
+font-size:40px; }
 
 .title div p{
 padding:10px 20px;
 text-align:justify;
 line-height:30px;
+width:100px;
 }
 
 .new{
