@@ -50,6 +50,10 @@ margin-top:20px;
 margin:10px;
 }
 
+.title { width:80%; }
+
+.new { width:80%; }
+
 .title img{
 width:100%;
 }
