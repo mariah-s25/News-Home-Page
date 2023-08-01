@@ -58,14 +58,14 @@ width:100%;
 }
 
 .title h1{ 
-width:80px;
+width:100%;
 font-size:40px; }
 
 .title div p{
 padding:10px 20px;
 text-align:justify;
 line-height:30px;
-width:100px;
+width:100%;
 }
 
 .new{
